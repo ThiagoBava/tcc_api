@@ -1,0 +1,16 @@
+asgiref==3.4.1
+Django==3.2.6
+django-cors-headers==3.8.0
+django-filter==2.4.0
+djangorestframework==3.12.4
+django-oauth2-provider==0.2.6.1
+Markdown==3.3.4
+pytz==2021.1
+sqlparse==0.4.1
+psycopg2==2.9.1
+python-dotenv==0.19.1
+debugpy==1.5.1
+
+
+
+
